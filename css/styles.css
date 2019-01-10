@@ -1,0 +1,26 @@
+.jumbotron h1{
+  color: #31708f;
+}
+.logo {
+  width:120px;
+  height:140px;
+  text-align: center;
+}
+
+body {
+  margin:auto;
+  padding:15px;
+}
+
+.contenttop{
+  font-size: 14px;
+}
+
+.contenttop a {
+  color:#06337c;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}​
