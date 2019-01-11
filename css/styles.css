@@ -20,7 +20,38 @@ body {
   color:#06337c;
 }
 
-ul {
-    list-style: none;
-    padding-left: 0;
-}​
+.contenttop ul {
+  list-style: none;
+  padding-left:0;
+}
+
+.title1 {
+  text-align: center;
+}
+
+.title1 p {
+  text-align: center;
+  font-size: 162%;
+}
+
+.title1ul {
+  padding-top: 10px;
+}
+
+#box1 {
+  border: 1px solid green;
+  background-color: #2CB77B;
+  padding:5px;
+  padding-left: 10px;
+  margin-left: auto;
+  color:black;
+}
+
+#box2 {
+  border: 1px solid blue;
+  background-color: #ABCDEF;
+  padding:5px;
+  padding-left: 10px;
+  margin-left: auto;
+  color:black;
+}
